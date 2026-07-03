@@ -346,8 +346,8 @@ class SearchApp:
 
         try:
             style = self.ttk.Style()
-            if 'clam' in style.theme_names():
-                style.theme_use('clam')
+            if 'alt' in style.theme_names():
+                style.theme_use('alt')
         except Exception:
             pass
 
