@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import uno
 import threading
-import sys
 import os
 import json
 import csv
@@ -9,9 +8,7 @@ import re
 import difflib
 import locale
 import logging
-import traceback
 import time
-from datetime import datetime
 
 # ==========================================
 # 0. GÜVENLİK VE LİMİT AYARLARI
