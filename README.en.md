@@ -4,6 +4,9 @@
   </a>
 </div>
 
+![LibreOffice Calc Çoklu Belge Arama Ekran Görüntüsü](https://raw.githubusercontent.com/erdincyz/gorseller/refs/heads/main/_cesitli/libre_calc_coklu_ara_ekran_goruntusu.jpg)
+
+
 # LibreOffice Calc Multi-Document Search Macro
 
 This project is a Python-based macro that allows you to search across all open LibreOffice Calc (spreadsheet) documents simultaneously.
