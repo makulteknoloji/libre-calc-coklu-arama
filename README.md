@@ -5,6 +5,9 @@
   </a>
 </div>
 
+ ![LibreOffice Calc Çoklu Belge Arama Ekran Görüntüsü](https://raw.githubusercontent.com/erdincyz/gorseller/refs/heads/main/_cesitli/libre_calc_coklu_ara_ekran_goruntusu.jpg)
+
+
 # LibreOffice Calc Çoklu Belge Arama Makrosu
 
 Bu proje, açık olan tüm LibreOffice Calc (Excel) belgelerinde aynı anda arama yapmanızı sağlayan Python tabanlı bir makrodur. 
